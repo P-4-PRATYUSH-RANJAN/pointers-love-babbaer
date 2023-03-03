@@ -26,6 +26,9 @@ int main() {
   cout << sizeof(ch) << endl;
   // whenever you print size of pointer it will be 8, it does not depend on data type.
   // it depends of compiler architecture;
+  // why do we need pointers
+  // for dynamic memory allocation
+  
   
   
 }
